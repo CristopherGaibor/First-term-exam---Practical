@@ -6,7 +6,7 @@ import sqlite3
 app = FastAPI(title="FuerzaDB")
 
 def get_db():
-    conn = sqlite3.connect("fuerza.db", check_same_thread=False)
+    conn = sqlite3.connect("Fuerza.db", check_same_thread=False)
     conn.row_factory = sqlite3.Row
     return conn
 
