@@ -5,7 +5,7 @@ Este proyecto consiste en el diseño e implementación de una API REST orientada
 ## Objetivo
 Comprender el ciclo de vida de un ataque de fuerza bruta, medir su impacto en un entorno controlado y diseñar estrategias de mitigación proactivas.
 
-## Stack Tecnologico
+## Stack
 - Backend: FastAPI (Python 3.12+)
 - Validacion de Datos: Pydantic
 - Base de Datos: SQLite (Persistencia local)
